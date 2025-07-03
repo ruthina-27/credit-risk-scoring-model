@@ -1,2 +1,7 @@
-# Ignore data directory
-/data/ 
+data/
+*.pyc
+__pycache__/
+*.ipynb_checkpoints/
+.DS_Store
+*.log
+env/

@@ -1,0 +1,16 @@
+pandas==2.3.0
+numpy==2.3.1
+matplotlib==3.10.3
+seaborn==0.13.2
+scikit-learn==1.7.0
+jupyter
+mlflow
+pytest
+fastapi
+uvicorn
+pydantic
+flake8
+scipy==1.15.3
+statsmodels==0.14.4
+scorecardpy==0.1.9.2
+sidetable==0.9.1
